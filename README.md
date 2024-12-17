@@ -1,11 +1,11 @@
 ## Converting website to an Android using Kotlin Programming Language
 
-#The implementation of the Kotlin-written app: 
+The implementation of the Kotlin-written app: 
 
-*Adds internet permission to allow the app to access the website
-*Creates a WebView to display the website content
-*Adds a progress bar to show loading status
-*Configures WebView settings for optimal viewing:
+1. Adds internet permission to allow the app to access the website
+2. Creates a WebView to display the website content
+3. Adds a progress bar to show loading status
+4. Configures WebView settings for optimal viewing:
 *Enables JavaScript support
 *Enables DOM storage
 *Enables zoom controls
