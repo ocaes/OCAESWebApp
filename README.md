@@ -6,9 +6,9 @@ The implementation of the Kotlin-written app:
 2. Creates a WebView to display the website content
 3. Adds a progress bar to show loading status
 4. Configures WebView settings for optimal viewing:
-*Enables JavaScript support
-*Enables DOM storage
-*Enables zoom controls
-*Configures viewport settings
-*Handles back button navigation within the WebView
-*Shows loading progress with a progress bar
+5. Enables JavaScript support
+6. Enables DOM storage
+7. Enables zoom controls
+8. Configures viewport settings
+9. Handles back button navigation within the WebView
+10 Shows loading progress with a progress bar
