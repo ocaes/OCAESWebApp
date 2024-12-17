@@ -11,4 +11,4 @@ The implementation of the Kotlin-written app:
 7. Enables zoom controls
 8. Configures viewport settings
 9. Handles back button navigation within the WebView
-10 Shows loading progress with a progress bar
+10. Shows loading progress with a progress bar
